@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<header>
+<nav>
+<ul>
+<li>Content</li>
+<li></li>Edducation</li>
+<li>Compulsory</li>
+<li> ABout Us</li>
+<li>Contact Us</li>
+</ulL
+</nav>
+</header>
+<head>
+<meta  charset="UTF-8">
+<meta name= "Viewpoint" Content="width" device-width, initialscale=1.0>
+<title>My first web page</title>
+</head>
+<br />
+<body>
+<!--Heading-->
+<h1>This is H1 Heading</h1>
+<h2> This is H2 Heading</h2>
+<h3>This is H3 Heading</h3>
+<h4> This is H4 heading<h4>
+<!--Paragraph-->
+<p> This is my the part rpresenting a Paragraph</p>
+<!--Link-->
+<a href="https://google.com"> Click here to visit Google page. </a>
+<br />
+<!--Internal images-->
+<img src="image.jpg"  alt="This is a flower image. width="500" height="500">
+<!ol type="a">
+<li>First list</li>
+<li> Second list </li>
+<li> Third list </li>
+<li> Fourth list</li>
+<--Un ordered list-->
+<ul>
+<li> First name </li>
+<li> Second name </li>
+<li>Third name </li>
+</ul>
+<!--Forms-->
+<form  action="/locaction" method="POST/GET">
+<label for="name"> Name:</label>
+<input type="text" id="name">
+<br />
+<label for="email"> Email:</label>
+<input type="mail" id="email">
+<br />
+<label for="password"> Password:</label>
+<input type="password" id="password">
+</form>
+<--Footer-->
+<Footer>
+<div class="footer-container">
+<p> div class="container">
+<p>Author: Osward Chola</p>
+<p><a hregf="mailto"> cholaosward@mail.com</a></p>
+<p>Copyright 2024 my company</p>
+<p> Contact: +260972233555</p>
+</div>
+</Footer>
+</body>
+</html>
